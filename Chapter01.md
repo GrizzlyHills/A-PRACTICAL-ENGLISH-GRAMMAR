@@ -23,5 +23,5 @@ She feels `very` happy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她感到很快乐。
 
 - This is my sister `Mary`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是我的妹妹玛丽。（作 my sister 的同位语）<br/>
 - Mary is a good girl,`they say`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他们说玛丽是个好姑娘。（作插入语）
-- Sit down,`Mary`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;玛丽，请坐。（作呼语）
+- Sit down,`Mary`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;玛丽，请坐。（作呼语） 
 
